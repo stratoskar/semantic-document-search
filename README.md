@@ -26,7 +26,6 @@ The application provides the following functionalities:
 * **Sentence Transformers:** A Python library for generating high-quality text embeddings.
 * **PyPDF:** A library for reading PDF files.
 * **python-docx:** A library for reading Microsoft Word (.docx) files.
-* **Pillow (PIL):** A library for image processing (although currently not the core functionality).
 * **NumPy:** A library for numerical operations, used in cosine similarity calculation.
 
 ## Setup and Installation
