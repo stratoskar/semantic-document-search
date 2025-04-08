@@ -27,8 +27,3 @@ The application provides the following functionalities:
 * **PyPDF:** A library for reading PDF files.
 * **python-docx:** A library for reading Microsoft Word (.docx) files.
 * **NumPy:** A library for numerical operations, used in cosine similarity calculation.
-
-## Usage
-
-1.  **Upload Documents:** On the main page, you can upload PDF, DOCX, or TXT files. These files will be processed and their semantic embeddings will be stored.
-2.  **Search for Similar Documents:** Upload a query document (PDF, DOCX, or TXT). The application will display a list of the most semantically similar documents from the uploaded collection, along with their similarity scores.
