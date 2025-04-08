@@ -28,18 +28,6 @@ The application provides the following functionalities:
 * **python-docx:** A library for reading Microsoft Word (.docx) files.
 * **NumPy:** A library for numerical operations, used in cosine similarity calculation.
 
-## Setup and Installation
-
-1.  **Install the required dependencies:**
-    ```bash
-    pip install -r requirements.txt
-    ```
-
-3.  **Run the Flask application:**
-    ```bash
-    python app.py
-    ```
-
 ## Usage
 
 1.  **Upload Documents:** On the main page, you can upload PDF, DOCX, or TXT files. These files will be processed and their semantic embeddings will be stored.
